@@ -1,2 +1,2 @@
-# Deploy-ML-models-with-Fast-API-
-FastAPI is a powerful and modern Python framework for building APIs. It combines high performance with a developer-friendly interface, making it a go-to choice for both simple and complex projects.
+# Deploy-ML-models-with-Fast-API
+FastAPI is a powerful and modern Python framework for building APIs. It combines high performance with a developer-friendly interface, making it a go-to choice for both simple and complex projects. Its features, such as automatic validation, async support, and interactive documentation, contribute to its popularity among developers who need to build fast, reliable, and scalable APIs.
