@@ -5,8 +5,8 @@ FastAPI is a powerful and modern Python framework for building APIs. It combines
 1. uvicorn main:app --reload
 2. Server will start with above command, then visit - http://127.0.0.1:8000/docs 
 3. Execute the post request for detecting the IRIS flower species with class probability and model accuracy
+4. Can also visit below urls and explore more of FastAPI
 
-# Visit
 http://127.0.0.1:8000 <br>
 http://127.0.0.1:8000/docs <br>
 http://127.0.0.1:8000/redoc <br>
